@@ -1,5 +1,11 @@
 # A03
 Project for is117
+
+Github is a host website used for the version control system called Git. It helps keep all of the code you create in a cetralized system like a repository so that you may refer to it on remote systems as well as allow others to borrow or help adjust the code that you create. Others are able to create clones of your work as well so that they may use it themselves in the future. 
+In order to upload your code, you must commit it from your text editor. Every time you make a new update or change you have the option to push it, meaning you can send the code to the repository you make keeping your code up to date. You may also choose to pull data into your code to help build it up more. You are able to code this information and data into a specific way so it reads how to display the information rather than in a list, which is called a branch.
+While making your code, you are able to fetch the information and display it on a local browser to make sure there are no conflicts or mistakes in your code. This can sometimes happen when there is a merge conflict. Merging allows you to combine your code so it is a single set, although sometimes it may not accuratly merge due to said error in code.
+
+
 Definitions
 
 GIT - a version-control system used for tracking changes in source code during software development.
